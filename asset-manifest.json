@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.d5c3f0e2.css",
-    "main.js": "/static/js/main.e40e573f.js",
+    "main.js": "/static/js/main.9b250fff.js",
     "static/js/332.7b5e0d0e.chunk.js": "/static/js/332.7b5e0d0e.chunk.js",
-    "static/js/831.5491e899.chunk.js": "/static/js/831.5491e899.chunk.js",
+    "static/js/831.ee6b09c0.chunk.js": "/static/js/831.ee6b09c0.chunk.js",
     "static/js/405.db98e71d.chunk.js": "/static/js/405.db98e71d.chunk.js",
-    "static/js/765.6629704a.chunk.js": "/static/js/765.6629704a.chunk.js",
-    "static/js/342.671fa091.chunk.js": "/static/js/342.671fa091.chunk.js",
+    "static/js/765.6299218a.chunk.js": "/static/js/765.6299218a.chunk.js",
+    "static/js/821.de544b36.chunk.js": "/static/js/821.de544b36.chunk.js",
     "static/js/853.40301572.chunk.js": "/static/js/853.40301572.chunk.js",
     "static/js/285.eef64da6.chunk.js": "/static/js/285.eef64da6.chunk.js",
     "static/js/420.c5e21f6b.chunk.js": "/static/js/420.c5e21f6b.chunk.js",
@@ -37,12 +37,13 @@
     "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.03833515.chunk.js",
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.78082195.chunk.js",
     "static/js/787.78729d16.chunk.js": "/static/js/787.78729d16.chunk.js",
+    "static/js/254.c8c1fe93.chunk.js": "/static/js/254.c8c1fe93.chunk.js",
     "static/js/209.ba0d47ed.chunk.js": "/static/js/209.ba0d47ed.chunk.js",
     "static/js/789.09f7c77c.chunk.js": "/static/js/789.09f7c77c.chunk.js",
     "static/js/912.75210985.chunk.js": "/static/js/912.75210985.chunk.js",
-    "static/js/254.c8c1fe93.chunk.js": "/static/js/254.c8c1fe93.chunk.js",
     "static/js/229.f951a9c2.chunk.js": "/static/js/229.f951a9c2.chunk.js",
     "static/js/384.217e32db.chunk.js": "/static/js/384.217e32db.chunk.js",
+    "static/js/90.6d1c3bfe.chunk.js": "/static/js/90.6d1c3bfe.chunk.js",
     "static/media/logo.png": "/static/media/logo.51f940095afff56368ac.png",
     "static/media/no-data-found.png": "/static/media/no-data-found.9b87c448ae5032c72860.png",
     "static/media/default-healthy-foods-recipe.jpg": "/static/media/default-healthy-foods-recipe.8feb94b5679dc11137bc.jpg",
@@ -66,12 +67,12 @@
     "static/media/eye-close.svg": "/static/media/eye-close.98cdbd487a7ddb6e82716f7b267431a6.svg",
     "static/media/eye.svg": "/static/media/eye.883854b107682a93a180e8d50854c5b1.svg",
     "main.d5c3f0e2.css.map": "/static/css/main.d5c3f0e2.css.map",
-    "main.e40e573f.js.map": "/static/js/main.e40e573f.js.map",
+    "main.9b250fff.js.map": "/static/js/main.9b250fff.js.map",
     "332.7b5e0d0e.chunk.js.map": "/static/js/332.7b5e0d0e.chunk.js.map",
-    "831.5491e899.chunk.js.map": "/static/js/831.5491e899.chunk.js.map",
+    "831.ee6b09c0.chunk.js.map": "/static/js/831.ee6b09c0.chunk.js.map",
     "405.db98e71d.chunk.js.map": "/static/js/405.db98e71d.chunk.js.map",
-    "765.6629704a.chunk.js.map": "/static/js/765.6629704a.chunk.js.map",
-    "342.671fa091.chunk.js.map": "/static/js/342.671fa091.chunk.js.map",
+    "765.6299218a.chunk.js.map": "/static/js/765.6299218a.chunk.js.map",
+    "821.de544b36.chunk.js.map": "/static/js/821.de544b36.chunk.js.map",
     "853.40301572.chunk.js.map": "/static/js/853.40301572.chunk.js.map",
     "285.eef64da6.chunk.js.map": "/static/js/285.eef64da6.chunk.js.map",
     "420.c5e21f6b.chunk.js.map": "/static/js/420.c5e21f6b.chunk.js.map",
@@ -102,15 +103,16 @@
     "reactPlayerFilePlayer.03833515.chunk.js.map": "/static/js/reactPlayerFilePlayer.03833515.chunk.js.map",
     "reactPlayerPreview.78082195.chunk.js.map": "/static/js/reactPlayerPreview.78082195.chunk.js.map",
     "787.78729d16.chunk.js.map": "/static/js/787.78729d16.chunk.js.map",
+    "254.c8c1fe93.chunk.js.map": "/static/js/254.c8c1fe93.chunk.js.map",
     "209.ba0d47ed.chunk.js.map": "/static/js/209.ba0d47ed.chunk.js.map",
     "789.09f7c77c.chunk.js.map": "/static/js/789.09f7c77c.chunk.js.map",
     "912.75210985.chunk.js.map": "/static/js/912.75210985.chunk.js.map",
-    "254.c8c1fe93.chunk.js.map": "/static/js/254.c8c1fe93.chunk.js.map",
     "229.f951a9c2.chunk.js.map": "/static/js/229.f951a9c2.chunk.js.map",
-    "384.217e32db.chunk.js.map": "/static/js/384.217e32db.chunk.js.map"
+    "384.217e32db.chunk.js.map": "/static/js/384.217e32db.chunk.js.map",
+    "90.6d1c3bfe.chunk.js.map": "/static/js/90.6d1c3bfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5c3f0e2.css",
-    "static/js/main.e40e573f.js"
+    "static/js/main.9b250fff.js"
   ]
 }
